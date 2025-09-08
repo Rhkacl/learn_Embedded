@@ -1,0 +1,13 @@
+../Core/Src/motor.c:8:6:MotorInit	1
+../Core/Src/motor.c:19:6:frontBehave	2
+../Core/Src/motor.c:40:6:autofrontBehave	1
+../Core/Src/motor.c:52:6:backBehave	2
+../Core/Src/motor.c:72:6:autobackBehave	1
+../Core/Src/motor.c:85:6:front_Left	1
+../Core/Src/motor.c:96:6:front_Right	1
+../Core/Src/motor.c:108:6:back_Left	1
+../Core/Src/motor.c:119:6:back_Right	1
+../Core/Src/motor.c:131:6:stop	1
+../Core/Src/motor.c:142:6:autostop	1
+../Core/Src/motor.c:153:6:auto_Left	1
+../Core/Src/motor.c:164:6:auto_Right	1

@@ -1,0 +1,6 @@
+../Core/Src/buzzer.c:5:6:Buzzer_Init	1
+../Core/Src/buzzer.c:10:6:Buzzer_On	5
+../Core/Src/buzzer.c:32:6:Buzzer_Off	1
+../Core/Src/buzzer.c:38:6:Buzzer_Beep	1
+../Core/Src/buzzer.c:46:10:Calculate_Beep_Interval	6
+../Core/Src/buzzer.c:75:10:Calculate_Beep_Frequency	3

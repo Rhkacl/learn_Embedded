@@ -1,0 +1,2 @@
+../Core/Src/button.c:4:9:Read_BTN1	8	static
+../Core/Src/button.c:9:9:Read_BTN2	8	static

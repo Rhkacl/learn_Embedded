@@ -1,0 +1,10 @@
+09:38:58 **** Incremental Build of configuration Debug for project 99_CAR ****
+make -j4 all 
+arm-none-eabi-size  99_CAR.elf 
+   text	   data	    bss	    dec	    hex	filename
+  34244	    100	  21388	  55732	   d9b4	99_CAR.elf
+Finished building: default.size.stdout
+ 
+
+09:38:58 Build Finished. 0 errors, 0 warnings. (took 141ms)
+

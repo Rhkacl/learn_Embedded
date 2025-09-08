@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:130:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/freertos.c:255:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/freertos.c:563:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:614:6:Motor_Task01	16	static
+../Core/Src/freertos.c:711:6:Ultrasonic_Task	16	static
+../Core/Src/freertos.c:773:6:Buzzer_Task01	32	static
+../Core/Src/freertos.c:842:6:signal_task01	32	static
