@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:55
+/home/user20/workspace_semicon/Verilog/test_mux/test_mux.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+/home/user20/workspace_semicon/Verilog/test_mux/test_mux.srcs/sim_1/new/tb_mux_2_1.v,1752803733,verilog,,,,tb_demux_1_4;tb_mux_2_1;tb_mux_4_1;tb_mux_8_1;tb_mux_demux_test,,,,,,,,
+/home/user20/workspace_semicon/Verilog/test_mux/test_mux.srcs/sources_1/new/mux_demux.v,1752818852,verilog,,/home/user20/workspace_semicon/Verilog/test_mux/test_mux.srcs/sim_1/new/tb_mux_2_1.v,,demux_1_4_d;mux_2_1;mux_2_1_behavioral;mux_2_1_structural;mux_4_1;mux_4_1_behavioral;mux_4_1_structural;mux_8_1;mux_demux_test,,,,,,,,

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1752710871">
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="fadder_sub_4bit_behavioral_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="fadder_sub_4bit_behavioral_routed.rqs"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BG-BGN" Name="fadder_sub_4bit_behavioral.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="fadder_sub_4bit_behavioral.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="fadder_sub_4bit_behavioral.ltx"/>
+  <File Type="RBD_FILE" Name="fadder_sub_4bit_behavioral.rbd"/>
+  <File Type="NPI_FILE" Name="fadder_sub_4bit_behavioral.npi"/>
+  <File Type="RNPI_FILE" Name="fadder_sub_4bit_behavioral.rnpi"/>
+  <File Type="CFI_FILE" Name="fadder_sub_4bit_behavioral.cfi"/>
+  <File Type="RCFI_FILE" Name="fadder_sub_4bit_behavioral.rcfi"/>
+  <File Type="PL-PDI-FILE" Name="fadder_sub_4bit_behavioral_pld.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="fadder_sub_4bit_behavioral_boot.pdi"/>
+  <File Type="RDI-RDI" Name="fadder_sub_4bit_behavioral.vdi"/>
+  <File Type="PDI-FILE" Name="fadder_sub_4bit_behavioral.pdi"/>
+  <File Type="BITSTR-MMI" Name="fadder_sub_4bit_behavioral.mmi"/>
+  <File Type="BITSTR-BMM" Name="fadder_sub_4bit_behavioral_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="fadder_sub_4bit_behavioral.nky"/>
+  <File Type="BITSTR-RBT" Name="fadder_sub_4bit_behavioral.rbt"/>
+  <File Type="BITSTR-MSK" Name="fadder_sub_4bit_behavioral.msk"/>
+  <File Type="BG-BIN" Name="fadder_sub_4bit_behavioral.bin"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="BG-BIT" Name="fadder_sub_4bit_behavioral.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="full_adder_behavioral_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="full_adder_behavioral_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="full_adder_behavioral_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="full_adder_behavioral_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="full_adder_behavioral_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="full_adder_behavioral_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="fadder_sub_4bit_behavioral_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="fadder_sub_4bit_behavioral_postroute_physopt.dcp"/>
+  <File Type="BG-DRC" Name="fadder_sub_4bit_behavioral.drc"/>
+  <File Type="ROUTE-RQS-PB" Name="fadder_sub_4bit_behavioral_rqs_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="fadder_sub_4bit_behavioral_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="fadder_sub_4bit_behavioral_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW" Name="fadder_sub_4bit_behavioral_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="fadder_sub_4bit_behavioral_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="fadder_sub_4bit_behavioral_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="fadder_sub_4bit_behavioral_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="fadder_sub_4bit_behavioral_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="fadder_sub_4bit_behavioral_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="fadder_sub_4bit_behavioral_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="fadder_sub_4bit_behavioral_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="fadder_sub_4bit_behavioral_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="fadder_sub_4bit_behavioral_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="fadder_sub_4bit_behavioral_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="fadder_sub_4bit_behavioral_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="fadder_sub_4bit_behavioral_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="fadder_sub_4bit_behavioral_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="fadder_sub_4bit_behavioral_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="fadder_sub_4bit_behavioral_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="fadder_sub_4bit_behavioral_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="fadder_sub_4bit_behavioral_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="fadder_sub_4bit_behavioral_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="fadder_sub_4bit_behavioral_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="fadder_sub_4bit_behavioral_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="fadder_sub_4bit_behavioral_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="fadder_sub_4bit_behavioral_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="fadder_sub_4bit_behavioral_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="fadder_sub_4bit_behavioral_postplace_pwropt.dcp"/>
+  <File Type="PLACE-RQA-PB" Name="fadder_sub_4bit_behavioral_rqa_placed.pb"/>
+  <File Type="PLACE-TIMING" Name="fadder_sub_4bit_behavioral_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="fadder_sub_4bit_behavioral_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="fadder_sub_4bit_behavioral_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="fadder_sub_4bit_behavioral_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="fadder_sub_4bit_behavioral_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="fadder_sub_4bit_behavioral_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="fadder_sub_4bit_behavioral_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="fadder_sub_4bit_behavioral_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="fadder_sub_4bit_behavioral_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="fadder_sub_4bit_behavioral_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="fadder_sub_4bit_behavioral_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="fadder_sub_4bit_behavioral_pwropt.dcp"/>
+  <File Type="OPT-RQA-PB" Name="fadder_sub_4bit_behavioral_rqa_opted.pb"/>
+  <File Type="OPT-HWDEF" Name="fadder_sub_4bit_behavioral.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="fadder_sub_4bit_behavioral_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="fadder_sub_4bit_behavioral_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="fadder_sub_4bit_behavioral_opt.dcp"/>
+  <File Type="OPT-TIMING" Name="fadder_sub_4bit_behavioral_timing_summary_opted.rpt"/>
+  <File Type="REPORTS-TCL" Name="fadder_sub_4bit_behavioral_reports.tcl"/>
+  <File Type="INIT-TIMING" Name="fadder_sub_4bit_behavioral_timing_summary_init.rpt"/>
+  <File Type="PA-TCL" Name="fadder_sub_4bit_behavioral.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Adder.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="fadder_sub_4bit_behavioral"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Verilog/Basys-3-Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Basys-3-Master.xdc"/>
+        <Attr Name="ImportTime" Val="1752473116"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/Half_adder_behavioral.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
