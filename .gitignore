@@ -1,10 +1,1 @@
-# 시뮬레이션/임시 파일 제외
-*.vcd
-*.wdb
-*.log
-*.swp
-
-# 빌드 산출물 제외
-build/
-# Verilog 파일 제외
-*.v
+Verilog/
